@@ -9,6 +9,7 @@ int main () {
   string name = "N", "A", "M", "E";
   long int d = 1234567890;
   short int e = 1;
+  bool f = false;
   double f = 34.27389;
   long double = 27.34789301;
   long long = 999999999999999999;
